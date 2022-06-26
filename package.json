@@ -50,8 +50,6 @@
 		"webpack-cli": "^4.9.2"
 	},
 	"dependencies": {
-		"@types/ps-node": "^0.1.1",
-		"await-spawn": "^4.0.2",
-		"ps-node": "^0.1.6"
+		"await-spawn": "^4.0.2"
 	}
 }
